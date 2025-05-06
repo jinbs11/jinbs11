@@ -6,6 +6,7 @@
 - Node.js, Express
 - Tailwind CSS, HTML
 - Python, C#
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbs11&layout=compact&theme=tokyonight)
 
 ## 🚀 Projects

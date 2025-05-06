@@ -8,7 +8,8 @@
 - Python, C#
 
 ## 🚀 Projects
-[![JinClient](https://img.shields.io/badge/JinClient-Open-blue?style=for-the-badge)](https://github.com/jinbs11/JinClient)
+- JinClient
+- FieldOps-web
 
 🌐 From Finland  
 📬 jino.renman@gmail.com  

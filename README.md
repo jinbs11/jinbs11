@@ -1,16 +1,14 @@
 ## Hi there 👋
+🎓 Currently studying ICT (2022–2025)  
 
-<!--
-**jinbs11/jinbs11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech I use:
+- React, TSX, JavaScript
+- Node.js, Express
+- Tailwind CSS, HTML
+- Python, C#
 
-Here are some ideas to get you started:
+## 🚀 Projects
+[![JinClient](https://img.shields.io/badge/JinClient-Open-blue?style=for-the-badge)](https://github.com/jinbs11/JinClient)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 From Finland  
+📬 jino.renman@gmail.com  

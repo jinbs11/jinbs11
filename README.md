@@ -13,5 +13,4 @@
 
 🌐 From Finland  
 📬 jino.renman@gmail.com
-
 🔗 https://jinbs11.github.io/portfolio/

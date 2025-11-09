@@ -10,6 +10,7 @@
 ## 🚀 Projects
 - JinClient
 - FieldOps-web
+- SilentByte Labs (developer)
 
 🌐 From Finland  
 📬 jino.renman@gmail.com
